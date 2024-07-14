@@ -41,7 +41,7 @@
 
   const background = Bodies.rectangle(240, 360, 480, 720, {
     isStatic: true,
-    render: { fillStyle: "#fe9" },
+    render: { fillStyle: "#90d4eb" },
   });
   background.collisionFilter = {
     group: 0,
